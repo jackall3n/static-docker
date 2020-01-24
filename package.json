@@ -1,0 +1,7 @@
+{
+  "name": "static-docker",
+  "license": "MIT",
+  "scripts": {
+    "docker:proxy": "docker-compose up"
+  }
+}
